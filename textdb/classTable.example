@@ -1,0 +1,8 @@
+<?
+class @class@ extends Table {
+
+	public string $tableFolder = __CLASS__; 
+
+	public array $structure = [@array@];
+
+}
